@@ -1,0 +1,6 @@
+@react_net_tier_list.Server_HostAddress = http://localhost:5172
+
+GET {{react_net_tier_list.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
